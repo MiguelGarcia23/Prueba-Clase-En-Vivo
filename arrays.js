@@ -1,1 +1,1 @@
-let series = ['Breaking Bad', 'GOT', 'TBBT', 'The 100']
+let series = ['Breaking Bad', 'GOT', 'TBBT', 'The 100', 'TWD', 'FTWD']
