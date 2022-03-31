@@ -1,0 +1,1 @@
+let emitirMensaje = mensaje => console.log(mensaje);
